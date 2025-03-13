@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Javascript, Java
+  🦄 Linguagens: Javascript, Java, Spring Boot
 </p>
 
 <p align="left">
-  💼 Ferramentas: React, Spring Boot
+  💼 Ferramentas: React, IntelliJ
 </p>
 
 <p align="left">
