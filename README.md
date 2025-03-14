@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Minhas redes de contado: ⤵️
+  💌 Minhas redes de contato: ⤵️
 </p>
 
 <p align="left">
