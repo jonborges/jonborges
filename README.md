@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, sou o Jon e sou um programador <strong>frontend com React</strong>.<br>
-  Estou terminando a faculdade de S.i e estudando Java + Spring Boot para me tornar fullstack.
+  Olá, sou o Jon e sou um programador <strong>backend com Java</strong>.<br>
+  Me formei em Sistemas de Informação e estou expandindo para Spring Boot + React para me tornar Fullstack.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Javascript, Java, Spring Boot
+   Habilidades: Java, Javascript, Spring Boot e React
 </p>
 
 <p align="left">
-  💼 Ferramentas: React, IntelliJ
+   Ferramentas: Intelijj, VsCode
 </p>
 
 <p align="left">
-  💌 Minhas redes de contato: ⤵️
+   Minhas redes de contato: ⤵️
 </p>
 
 <p align="left">
