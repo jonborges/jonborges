@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <p align="left">
   Sou um programador <strong>Backend com Java</strong> e graduado em <strong>Sistemas de Informação</strong>.<br>
