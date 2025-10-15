@@ -18,7 +18,7 @@
 
 | ☕ Backend | ⚛️ Frontend | 🧰 Ferramentas |
 |------------|-------------|----------------|
-| Java · Spring Boot · Maven | React · JavaScript | IntelliJ IDEA · VSCode |
+| Java · Spring Boot  | React · JavaScript | IntelliJ IDEA · VSCode · SQL · AWS | 
 
 ---
 
