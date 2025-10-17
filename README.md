@@ -12,23 +12,9 @@
   Atualmente estou expandindo minhas habilidades para o universo <strong>Spring Boot + React</strong> e construindo meu caminho para me tornar um desenvolvedor <strong>Fullstack</strong>.
 </p>
 
----
-
-### ⚙️ Tecnologias que domino
-
 | ☕ Backend | ⚛️ Frontend | 🧰 Ferramentas |
 |------------|-------------|----------------|
 | Java · Spring Boot  | React · JavaScript | IntelliJ IDEA · VSCode · SQL · AWS | 
-
----
-
-### 🧩 O que eu crio
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=700&lines=🚀+Crio+CRUDs+robustos;🌐+Desenvolvo+REST+APIs;⚙️+Arquitetura+RESTful+com+Spring+Boot;💡+Integrações+entre+Frontend+e+Backend" alt="Typing Animation of skills" />
-</div>
-
----
 
 ### 📈 Minhas estatísticas
 
@@ -38,18 +24,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonborges&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
----
-
-### 🧠 Um pouco mais sobre mim
-
-> “Código é poesia lógica — e todo commit é uma pequena obra de arte.”
-
-- 🔭 Foco atual: Java + Spring Boot + React  
-- 🎯 Objetivo: Fullstack com propósito  
-- 🎧 Curiosidade: programo melhor com música instrumental
-
----
 
 ### 🌐 Vamos nos conectar!
 
