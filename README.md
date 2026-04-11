@@ -1,7 +1,7 @@
 
 
 <p align="left">
-  Sou um programador <strong>Fullstack</strong>que utiliza React e Spring Boot e graduado em <strong>Sistemas de Informação</strong>.<br>
+  Sou um programador <strong>Fullstack</strong> que utiliza React e Spring Boot e graduado em <strong>Sistemas de Informação</strong>.<br>
   Atualmente estou expandindo minhas habilidades para o universo <strong>Spring Boot + React</strong> e construindo meu caminho para me tornar um desenvolvedor <strong>Fullstack</strong>.
 </p>
 
